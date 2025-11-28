@@ -1,0 +1,9 @@
+/* Simple responsive styling */
+body{font-family: Arial, Helvetica, sans-serif;margin:0;color:#222}
+.site-header{display:flex;align-items:center;gap:1rem;padding:12px;background:#f7f7f7}
+.logo{width:48px}
+.container{display:flex;gap:16px;padding:16px}
+.products{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;flex:1}
+.product{border:1px solid #ddd;padding:12px;border-radius:8px}
+.cart{width:300px;border-left:1px solid #eee;padding-left:16px}
+@media(max-width:700px){.container{flex-direction:column}.cart{width:auto;border-left:none}}
