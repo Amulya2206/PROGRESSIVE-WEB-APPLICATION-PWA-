@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PWA E-Commerce Demo</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="stylesheet" href="/styles.css">
+<meta name="theme-color" content="#2b2b2b">
+</head>
+<body>
+<header class="site-header">
+<img src="/assets/logo.png" alt="logo" class="logo">
+<h1>ShopEasy — PWA Demo</h1>
+<button id="enablePush">Enable Push</button>
+</header>
+
+
+<main class="container">
+<section id="products" class="products"></section>
+<aside class="cart">
+<h2>Your Cart</h2>
+<ul id="cartItems"></ul>
+<button id="checkout">Checkout</button>
+</aside>
+</main>
+
+
+<script src="/app.js" type="module"></script>
+</body>
+</html>
