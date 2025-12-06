@@ -1,5 +1,16 @@
-* PWA E‑Commerce Platform — README
- Project Overview
+*PROGRESSIVE-WEB-APPLICATION-PWA-
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: YATHIPATHI AMULYA
+
+INTERN ID:  :CT04DR2165
+
+DOMAIIN: FULL STCK WEB DEVLOPMENT
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
 
 This project is a Progressive Web Application (PWA) built for a demo E‑Commerce platform. 
 It provides:
